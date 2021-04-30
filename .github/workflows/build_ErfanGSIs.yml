@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ip1029618493.out.azhimalayanvh.com/Firmware/Flyme/16s_Pro/9.21.4.24/cn_daily/20210424183833/68d12461/update.zip?ali_redirect_domain=download.meizu.com&ali_redirect_ex_ftag=7a44160e7eebd453f7d16a4197e7b2f11b2d6ad8e9621c23&ali_redirect_ex_tmining_ts=1619746076&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_URL: https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2F16s_Pro%2F9.21.4.29%2Fcn_daily%2F20210429002119%2F889a2ad5%2Fupdate.zip
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
